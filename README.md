@@ -48,10 +48,10 @@ After npm run start get proccess is done then run your localhost. Wait till the 
 ## Screenshots
 
 <div style={{ display: 'flex' }}>
-    <img src="docs/screenshots/screenshot-1.png" width="40%" style={{ marginRight: '10px' }}/>
-    <img src="docs/screenshots/screenshot-2.png" width="40%" style={{ marginRight: '10px' }}/>
-    <img src="docs/screenshots/screenshot-3.png" width="40%" style={{ marginRight: '10px' }}/>
-    <img src="docs/screenshots/screenshot-4.png" width="40%" style={{ marginRight: '10px' }}/>
+    <img src="public/screenshots/screenshot-1.png" width="40%" style={{ marginRight: '10px' }}/>
+    <img src="public/screenshots/screenshot-2.png" width="40%" style={{ marginRight: '10px' }}/>
+    <img src="public/screenshots/screenshot-3.png" width="40%" style={{ marginRight: '10px' }}/>
+    <img src="public/screenshots/screenshot-4.png" width="40%" style={{ marginRight: '10px' }}/>
 </div>
 
 ## Built With
